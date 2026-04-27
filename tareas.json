@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "Descripcion": "Desayunar",
+        "Estatus": "ToDo",
+        "createdAt": "2026-04-27 07:46:10",
+        "updatedAt": "2026-04-27 07:46:10"
+    },
+    {
+        "Id": 2,
+        "Descripcion": "Tender cama",
+        "Estatus": "Done",
+        "createdAt": "2026-04-27 07:59:53",
+        "updatedAt": "2026-04-27 08:00:10"
+    }
+]
