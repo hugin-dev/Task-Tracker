@@ -1,6 +1,6 @@
 # CLI Task Tracker - Python Core
 
-Project URL: [https://github.com/hugin-dev/Task_Tracker]
+**Project URL:** [https://github.com/hugin-dev/Task-Tracker](https://github.com/hugin-dev/Task-Tracker)
 
 Gestor de tareas de línea de comandos desarrollado en Python, con enfoque en la persistencia de datos, lógica de estados y trazabilidad temporal.
 
